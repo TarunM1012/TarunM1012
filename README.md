@@ -47,9 +47,7 @@ I work at an intersection that's genuinely undersupplied: **computer vision rese
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunM1012&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C8CF8&icon_color=7C8CF8&text_color=a0a0c0)](https://github.com/TarunM1012)
-&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunM1012&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C8CF8&text_color=a0a0c0)](https://github.com/TarunM1012)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TarunM1012&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
