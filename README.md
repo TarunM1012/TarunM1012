@@ -12,7 +12,7 @@
 
 | Project | What it is | Result |
 |---|---|---|
-| **[VL-JEPA](https://github.com/TarunM1012/VL-JEPA-Implement)** | Vision-Language JEPA applied to Compositional Zero-Shot Learning. Supervised by Dr. Faisal Qureshi, Ontario Tech Visual Computing Lab | Targeting CVPR/ICCV tier submission |
+| **[VL-JEPA](https://github.com/TarunM1012/VL-JEPA-Implement)** | Vision-Language JEPA applied to Compositional Zero-Shot Learning. Supervised by Ontario Tech Visual Computing Lab | In-Progress |
 | **[CodeGuard](https://github.com/TarunM1012/codeguard)** | Multi-agent code review: 3 LLMs analyze PRs independently, semantic consensus flags real bugs | Bug detection: 14% → 92%+ accuracy |
 | **[GridSens](https://github.com/TarunM1012/GridSens)** | GNN cascade failure predictor for hybrid infrastructure. Real ERCOT 2021 data | 1st place, Cognitive Innovation Competition 2026 |
 
@@ -38,8 +38,8 @@
 ### Background
 
 Application Engineering Co-op @ **Multimatic** — analyzing welding robot systems using SCADA/PLC data.  
-Previously: Intact Insurance · Marvell Technology.  
-Research: Ontario Tech Visual Computing Lab under Dr. Faisal Qureshi.
+Previously: 
+Research: Ontario Tech Visual Computing Lab under
 
 I work at an intersection that's genuinely undersupplied: **computer vision research + agentic AI systems + real industrial data.**
 
