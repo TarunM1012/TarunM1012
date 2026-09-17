@@ -41,7 +41,7 @@ Application Engineering Co-op @ **Multimatic** — analyzing welding robot syste
 Previously: 
 Research: Ontario Tech Visual Computing Lab under
 
-I work at an intersection that's genuinely undersupplied: **computer vision research + agentic AI systems + real industrial data.**
+I work at an intersection of: **computer vision research + agentic AI systems + real industrial data.**
 
 ---
 
